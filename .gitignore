@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+
+# Streamlit
+.streamlit/secrets.toml
+
+
+# outputs
+output/
+relatorios/
+*.xlsx
+*.xls
+*.csv
+
+# logs
+*.log
+
+
+# so
+.DS_Store
+Thumbs.db
+
+
+# IDEs
+.vscode/
+.idea/
+
+# configs locais
+config_local.py
